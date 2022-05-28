@@ -14,4 +14,5 @@ $ brew install wget   OR   $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubus
 - gradle clean cucumber
 
 If you want to run a specific tag. You can use tag properties.
-- gradle clean cucumber --tags "<tagname>"
+- gradle clean cucumber --tags "@tagname"
+example: gradle clean cucumber --tags="@AdminFeatures"
