@@ -5,7 +5,7 @@ Using Java 8 or above
 
 # Instruction (Mac OS)
 Install Homebrew
-$ brew install wget OR $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+- $ brew install wget OR $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
 
 # How to Run Test
 - Clone this repo and enter the directory.
