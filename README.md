@@ -1,13 +1,13 @@
 # toko talk automation test
 
-Prerequisite
+# Prerequisite
 Using Java 8 or above
 
-#Instruction (Mac OS)
+# Instruction (Mac OS)
 Install Homebrew
 $ brew install wget   OR   $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
 
-#How to Run Test
+# How to Run Test
 - Clone this repo and enter the directory.
 - git clone https://github.com/tnabror/tt.git
 - cd tt
